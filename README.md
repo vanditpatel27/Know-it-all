@@ -19,11 +19,11 @@ A web project to help students gain knowledge and get rid of doubts in a simple 
 
 ## 📸 Screenshots
 
-![Start Up Page](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss1.jpg "Start Up Page")  
-![Sign Up](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss2_1.jpg "Sign Up")  
-![Login](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss2_2.jpg "Login")  
-![Raise A New Question](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss3.jpg "Raise Question")  
-![Dashboard with Live Notifications](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss4.jpg "Dashboard")  
-![Answer Question](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss5.jpg "Answer Question")  
-![Your Raised Question with Options (Expired)](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss6.jpg "Expired Question")  
-![Your Raised Question](C:/Users/ASUS/Desktop/Know-it-all/screenshots/ss7.jpg "Unexpired Question")  
+![Start Up Page](https://drive.google.com/uc?export=view&id=1byTTs4OJp69OZV0BFRVeNf13nTG57LJd "Start Up Page")  
+![Sign Up](https://drive.google.com/uc?export=view&id=1p1XYoUEbR04uWjKQFNtoyBOZFC7bC40F "Sign Up")  
+![Login](https://drive.google.com/uc?export=view&id=1wlqGozZQIrgEhUOppZE-S4_TcsZe-Fc3 "Login")  
+![Raise A New Question](https://drive.google.com/uc?export=view&id=1agY6x2jpVykbhnYLw5GoSzjFUxgVnox2 "Raise Question")  
+![Dashboard with Live Notifications](https://drive.google.com/uc?export=view&id=1pAVaF03kZV-QKTK5P4rTFzXllpss8vMM "Dashboard")  
+![Answer Question](https://drive.google.com/uc?export=view&id=11KeO6LgLEbVYsJMOGP-CpCSj8psuk7IK "Answer Question")  
+![Your Raised Question with Options (Expired)](https://drive.google.com/uc?export=view&id=1U7V69y0eBxB8lVSqhaQJKXesywv1h_4w "Expired Question")  
+![Your Raised Question](https://drive.google.com/uc?export=view&id=1tVw8qBvxvGfaWLELY6uTXtX0KIUCgxFC "Unexpired Question")  
